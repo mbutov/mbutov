@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My public CV: https://github.com/mbutov/cv
+My public CV: https://mbutov.github.io/cv
 
 <!--
 **mbutov/mbutov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
